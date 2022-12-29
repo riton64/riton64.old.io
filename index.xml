@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Un blog simple créé avec Hugo</title>
-    <link>https://riton64.blogRiton/</link>
+    <link>https://riton64.github.io/</link>
     <description>Recent content on  Un blog simple créé avec Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Mypost</title>
-      <link>https://riton64.blogRiton/posts/mypost/</link>
+      <link>https://riton64.github.io/posts/mypost/</link>
       <pubDate>Tue, 20 Dec 2022 17:06:08 +0100</pubDate>
       
-      <guid>https://riton64.blogRiton/posts/mypost/</guid>
+      <guid>https://riton64.github.io/posts/mypost/</guid>
       <description>Voici quelques news </description>
     </item>
     
